@@ -86,14 +86,3 @@ data-warehouse-project/
 └── requirements.txt                    # Dependencies and requirements for the project
 ```
 ---
-
-## 🌟 About Me
-
-Hi there! 👋 I’m **Sree Dharani Reddy Sanapureddy**, a student and aspiring **Data Engineer / Data Analyst**.
-
-I am passionate about data engineering, analytics, and building end-to-end pipelines.
-This project reflects my hands-on learning in **data warehousing, ETL, and SQL-based analytics**.
-
-📌 Feel free to check my work and connect with me!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharani-sanapureddy/)
